@@ -1,5 +1,5 @@
 /*
-
+#sample#
 let sse = new EventSource("http://localhost:8888/stream");
 sse.onmessage = console.log
 
