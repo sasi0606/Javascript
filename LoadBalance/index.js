@@ -1,5 +1,5 @@
 /*
-#Local
+#Checking Again new files
 let sse = new EventSource("http://localhost:8888/stream");
 sse.onmessage = console.log
 
